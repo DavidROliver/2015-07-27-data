@@ -1,0 +1,22 @@
+p {
+    color: blue;
+    font-size: 20pt;
+}
+
+.red {
+    color: #E00000;
+}
+
+p.red {
+    font-size: 5pt;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+#bigdiv {
+    background-color: #FFFF00;
+    font-family: Arial;
+}
